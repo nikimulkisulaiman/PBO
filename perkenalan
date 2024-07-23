@@ -2,13 +2,13 @@
 public class Main {
     public static void main(String[] args) {
         // Deklarasi dan inisialisasi variabel
-        String nama = "Budi";
-        int umur = 25;
-        String pekerjaan = "Mahasiswa";
+        String nama = "niki";
+        int umur = 17;
+        String pekerjaan = "Mahasiswa sm riyadlut tauhid";
 
         // Menampilkan informasi perkenalan dalam bahasa Indonesia
-        System.out.println("Halo, perkenalkan, nama saya " + nama + ".");
-        System.out.println("Saya berusia " + umur + " tahun.");
-        System.out.println("Saya sedang menempuh pendidikan sebagai seorang " + pekerjaan + ".");
+        System.out.println("Halo, perkenalkan, nama saya " + niki + ".");
+        System.out.println("Saya berusia " + 17 + " tahun.");
+        System.out.println("Saya sedang menempuh pendidikan sebagai seorang " + mahasiswa smk riyadlut tauhid + ".");
     }
 }
